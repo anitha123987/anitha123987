@@ -44,4 +44,4 @@ Based in Thoothukudi, Tamil Nadu. I specialize in building high-fidelity, access
 ---
 
 ### 📫 Let's Connect:
-[**LinkedIn**](https://www.linkedin.com/in/anithasundari212004/) | [**Portfolio**]([PASTE_FIGMA_URL](https://www.figma.com/proto/8f72iPQlpmiD19E23hdeJy/portfolio---Anitha?page-id=0%3A1&node-id=1-2&viewport=76%2C-136%2C0.09&t=h856Hw7efoiZoT0V-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2))
+[**LinkedIn**](https://www.linkedin.com/in/anithasundari212004/) | [**Portfolio**](https://www.figma.com/proto/8f72iPQlpmiD19E23hdeJy/portfolio---Anitha?page-id=0%3A1&node-id=1-2&viewport=76%2C-136%2C0.09&t=h856Hw7efoiZoT0V-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2)
