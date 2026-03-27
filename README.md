@@ -16,7 +16,7 @@ Based in Thoothukudi, Tamil Nadu. I specialize in building high-fidelity, access
 
 ### 🎨 Key Projects
 
-#### 💳 [Splitmaker | Fintech Application]h ttps://www.figma.com/proto/fmcEErMeq0gl9ysAJDjDF3/Yaavi?page-id=5%3A2&node-id=5-3&viewport=102%2C380%2C0.23&t=pNJ20SX3jQSlAm6x-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=5%3A3&show-proto-sidebar=1
+#### 💳 [Splitmaker | Fintech Application] https://www.figma.com/proto/fmcEErMeq0gl9ysAJDjDF3/Yaavi?page-id=5%3A2&node-id=5-3&viewport=102%2C380%2C0.23&t=pNJ20SX3jQSlAm6x-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=5%3A3&show-proto-sidebar=1
 * Designed a mobile solution for group expense tracking using IA to simplify debt-settlement logic.
 * Developed custom **Data Visualizations** and a scalable design system using **Figma variables** for dark/light mode.
 
